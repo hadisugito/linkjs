@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="5-bite-size-bitcoin-factoids-to-beef-up.html"}
-if(x=="2"){xxx="5-minute-scalping-strategy-for-forex.html"}
-if(x=="3"){xxx="strategic-trading-scalping-in-forex.html"}
-if(x=="4"){xxx="4-things-no-one-ever-tells-you-about.html"}a_to_ve[i].href="https://www.gotolink.me/2019/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="08/5-bite-size-bitcoin-factoids-to-beef-up.html"}
+if(x=="2"){xxx="07/5-minute-scalping-strategy-for-forex.html"}
+if(x=="3"){xxx="07/strategic-trading-scalping-in-forex.html"}
+if(x=="4"){xxx="07/4-things-no-one-ever-tells-you-about.html"}a_to_ve[i].href="https://www.gotolink.me/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
